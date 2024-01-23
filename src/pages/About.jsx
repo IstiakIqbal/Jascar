@@ -33,8 +33,8 @@ export default function About() {
             </div>
             <div data-aos="zoom-in-left" className="w-full lg:w-8/12 ">
               <img
-                className="w-full h-full"
-                src="https://i.ibb.co/FhgPJt8/Rectangle-116.png"
+                className="w-full h-full rounded-lg"
+                src="https://media.istockphoto.com/id/1248187106/photo/happy-customer-and-auto-mechanic-using-touchpad-in-a-workshop.jpg?s=612x612&w=0&k=20&c=7C4TtL1wJ8LTYq0HTwhHWX9Y2NjBdqcxTt6-o3EKHEo="
                 alt="A group of People"
               />
             </div>

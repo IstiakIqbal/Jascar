@@ -1,4 +1,5 @@
 import { Link } from "react-router-dom";
+import Footer from "../partials/Footer";
 import HeaderSecondary from "../partials/HeaderSecondary";
 
 export default function Blogs() {
@@ -173,6 +174,7 @@ export default function Blogs() {
           </article>
         </div>
       </main>
+      <Footer />
     </div>
   );
 }

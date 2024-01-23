@@ -121,7 +121,7 @@ export default function BlogSection() {
               </p>
               <div>
                 <Link
-                  to="/blog/1"
+                  to="/blogs"
                   className="font-semibold text-yellow-500 transition duration-100 hover:text-yellow-600 active:text-yellow-700"
                 >
                   Read more
@@ -157,7 +157,7 @@ export default function BlogSection() {
               </p>
               <div>
                 <Link
-                  to="/blog/1"
+                  to="/blogs"
                   className="font-semibold text-yellow-500 transition duration-100 hover:text-yellow-600 active:text-yellow-700"
                 >
                   Read more

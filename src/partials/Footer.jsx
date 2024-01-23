@@ -227,7 +227,7 @@ function Footer() {
           <ul className="flex mb-4 md:order-1 md:ml-4 md:mb-0">
             <li>
               <Link
-                to="#"
+                to="https://github.com/IstiakIqbal/Jascar"
                 className="flex justify-center items-center text-gray-600 hover:text-gray-900 bg-white hover:bg-white-100 rounded-none shadow transition duration-150 ease-in-out"
                 aria-label="Twitter"
               >
@@ -242,7 +242,7 @@ function Footer() {
             </li>
             <li className="ml-4">
               <Link
-                to="#"
+                to="https://github.com/IstiakIqbal/Jascar"
                 className="flex justify-center items-center text-gray-600 hover:text-gray-900 bg-white hover:bg-white-100 rounded-none shadow transition duration-150 ease-in-out"
                 aria-label="Github"
               >
@@ -257,7 +257,7 @@ function Footer() {
             </li>
             <li className="ml-4">
               <Link
-                to="#"
+                to="https://github.com/IstiakIqbal/Jascar"
                 className="flex justify-center items-center text-gray-600 hover:text-gray-900 bg-white hover:bg-white-100 rounded-none shadow transition duration-150 ease-in-out"
                 aria-label="Facebook"
               >

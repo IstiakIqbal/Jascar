@@ -19,11 +19,15 @@
 }
 
 /* See Alpine.js: https://github.com/alpinejs/alpine#x-cloak */
-[x-cloak=""] {
+[x-cloak=""]{
   display: none;
 }
 
 body {
   font-family: Inter;
 }
-
+@media only screen and (max-width: 650px) {
+  #contactBar{
+    display: none;
+  }
+}

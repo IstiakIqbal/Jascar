@@ -36,7 +36,7 @@ export default function BlogSection() {
               />
             </Link>
             <div className="flex flex-col gap-2">
-              <span className="text-sm text-gray-400">April 2, 2022</span>
+              <span className="text-sm text-gray-400">February 1, 2024</span>
               <h2 className="text-xl font-bold text-gray-800">
                 <Link
                   to="/blog/1"
@@ -73,7 +73,7 @@ export default function BlogSection() {
               />
             </Link>
             <div className="flex flex-col gap-2">
-              <span className="text-sm text-gray-400">April 2, 2022</span>
+              <span className="text-sm text-gray-400">January 16, 2022</span>
               <h2 className="text-xl font-bold text-gray-800">
                 <Link
                   to="/blog/1"
@@ -88,8 +88,7 @@ export default function BlogSection() {
                 <a
                   href="/blogs"
                   className="font-semibold text-yellow-600 transition duration-100 hover:text-yellow-600 active:text-yellow-700"
-                >
-                  Read more
+                >Read more
                 </a>
               </div>
             </div>
@@ -102,25 +101,23 @@ export default function BlogSection() {
               className="group relative block h-56 w-full shrink-0 self-start overflow-hidden rounded-lg bg-gray-100 shadow-lg md:h-24 md:w-24 lg:h-40 lg:w-40"
             >
               <img
-                src="https://images.unsplash.com/photo-1569176330438-fa1ed1042542?q=80&w=1932&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+                src="https://www.carcarecentre.ca/wp-content/uploads/bb-plugin/cache/car-wrapping-services-1024x683-square.jpg"
                 loading="lazy"
                 alt
                 className="absolute inset-0 h-full w-full object-cover object-center transition duration-200 group-hover:scale-110"
               />
             </Link>
             <div className="flex flex-col gap-2">
-              <span className="text-sm text-gray-400">April 2, 2022</span>
+              <span className="text-sm text-gray-400">May 16, 2021</span>
               <h2 className="text-xl font-bold text-gray-800">
                 <Link
                   to="/blog/1"
                   className="transition duration-100 hover:text-yellow-600 active:text-yellow-600"
-                >
-                  Architectural Warfare
+                >"Wrapped in Style: The Allure of Car Wrapping"
                 </Link>
               </h2>
               <p className="text-gray-500">
-                Lorem ipsum, dolor sit amet consectetur adipisicing elit. Sint
-                necessitatibus molestias explicabo.
+              Dive into the world of self-expression on wheels with our Car Wrapping service. Learn...
               </p>
               <div>
                 <Link
@@ -140,7 +137,7 @@ export default function BlogSection() {
               className="group relative block h-56 w-full shrink-0 self-start overflow-hidden rounded-lg bg-gray-100 shadow-lg md:h-24 md:w-24 lg:h-40 lg:w-40"
             >
               <img
-                src="https://images.unsplash.com/photo-1618312980096-873bd19759a0?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+                src="https://carstylein.com/assets/csimg/creamiccoating1.jpg"
                 loading="lazy"
                 alt
                 className="absolute inset-0 h-full w-full object-cover object-center transition duration-200 group-hover:scale-110"
@@ -152,13 +149,11 @@ export default function BlogSection() {
                 <Link
                   to="/blog/1"
                   className="transition duration-100 hover:text-yellow-600 active:text-yellow-600"
-                >
-                  Blues in Architechture
+                >"Ceramic Coating: A Shield of Brilliance"
                 </Link>
               </h2>
               <p className="text-gray-500">
-                Lorem ipsum, dolor sit amet consectetur adipisicing elit. Sint
-                necessitatibus molestias explicabo.
+              Delve into the world of ultimate protection with our Ceramic Coating service. Learn how Jasar Al Heera's coatings..
               </p>
               <div>
                 <Link

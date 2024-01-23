@@ -39,46 +39,48 @@ function Footer() {
 
           {/* 2nd block */}
           <div className="sm:col-span-6 md:col-span-3 lg:col-span-2">
-            <h6 className="text-gray-800 font-medium mb-2">Products</h6>
+            <h6 className="text-gray-800 font-medium mb-2">Services</h6>
             <ul className="text-sm">
               <li className="mb-2">
                 <Link
                   to="#"
                   className="text-gray-600 hover:text-gray-900 transition duration-150 ease-in-out"
-                >
-                  lorem
+                >Paint protection
                 </Link>
               </li>
               <li className="mb-2">
                 <Link
                   to="#"
                   className="text-gray-600 hover:text-gray-900 transition duration-150 ease-in-out"
-                >
-                  Ipsum modi
+                >Interior Cleaning
                 </Link>
               </li>
               <li className="mb-2">
                 <Link
                   to="#"
                   className="text-gray-600 hover:text-gray-900 transition duration-150 ease-in-out"
-                >
-                  Libero
+                >Car Wrapping
                 </Link>
               </li>
               <li className="mb-2">
                 <Link
                   to="#"
                   className="text-gray-600 hover:text-gray-900 transition duration-150 ease-in-out"
-                >
-                  Lorem Ipsum
+                >Window Tinting
                 </Link>
               </li>
               <li className="mb-2">
                 <Link
                   to="#"
                   className="text-gray-600 hover:text-gray-900 transition duration-150 ease-in-out"
-                >
-                  Command-line
+                >Ceramic Coating
+                </Link>
+              </li>
+              <li className="mb-2">
+                <Link
+                  to="#"
+                  className="text-gray-600 hover:text-gray-900 transition duration-150 ease-in-out"
+                >Interior Paint
                 </Link>
               </li>
             </ul>
@@ -90,23 +92,15 @@ function Footer() {
             <ul className="text-sm">
               <li className="mb-2">
                 <Link
-                  to="#"
+                  to="/about"
                   className="text-gray-600 hover:text-gray-900 transition duration-150 ease-in-out"
                 >
-                  Documentation
+                  About us
                 </Link>
               </li>
               <li className="mb-2">
                 <Link
-                  to="#"
-                  className="text-gray-600 hover:text-gray-900 transition duration-150 ease-in-out"
-                >
-                  Tutorials & Guides
-                </Link>
-              </li>
-              <li className="mb-2">
-                <Link
-                  to="#"
+                  to="/blogs"
                   className="text-gray-600 hover:text-gray-900 transition duration-150 ease-in-out"
                 >
                   Blog
@@ -114,7 +108,7 @@ function Footer() {
               </li>
               <li className="mb-2">
                 <Link
-                  to="#"
+                  to="/contact"
                   className="text-gray-600 hover:text-gray-900 transition duration-150 ease-in-out"
                 >
                   Support Center
@@ -145,7 +139,7 @@ function Footer() {
               </li>
               <li className="mb-2">
                 <Link
-                  to="#"
+                  to="/about"
                   className="text-gray-600 hover:text-gray-900 transition duration-150 ease-in-out"
                 >
                   About us

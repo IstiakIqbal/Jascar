@@ -22,13 +22,8 @@ export default function About() {
                 </span>
               </h1>
               <p className="font-normal text-base leading-6 text-gray-600 ">
-                It is a long established fact that a reader will be distracted
-                by the readable content of a page when looking at its layout.
-                The point of using Lorem Ipsum.In the first place we have
-                granted to God, and by this our present charter confirmed for us
-                and our heirs forever that the English Church shall be free, and
-                shall have her rights entire, and her liberties inviolate; and
-                we will that it be thus observed; which is apparent from
+              At Jasar Al Heera, we are not merely a car service company; we are architects of automotive dreams. Nestled in the heart of our city, our workshop is a haven where passion for cars converges with the artistry of skilled craftsmen.
+Our narrative is one of commitment – a commitment to redefine the very essence of car service. From the first moment a vehicle graces our workshop to the triumphant delivery, each step is an ode to precision, care, and the pursuit of automotive excellence.
               </p>
             </div>
             <div data-aos="zoom-in-left" className="w-full lg:w-8/12 ">
@@ -52,13 +47,8 @@ export default function About() {
                 </span>
               </h1>
               <p className="font-normal text-base leading-6 text-gray-600 ">
-                It is a long established fact that a reader will be distracted
-                by the readable content of a page when looking at its layout.
-                The point of using Lorem Ipsum.In the first place we have
-                granted to God, and by this our present charter confirmed for us
-                and our heirs forever that the English Church shall be free, and
-                shall have her rights entire, and her liberties inviolate; and
-                we will that it be thus observed; which is apparent from
+              In the heart of the metropolis, this tale unfolds, with Jasar Al Heera as the protagonist, a beacon of automotive excellence. The story began with a vision, a dream to redefine the standards of car service, to elevate the experience from mundane to extraordinary. <br /> <br />
+The journey continued with the company's commitment to care, as if each vehicle held the dreams and aspirations of its owner. From the first touch to the final bow, every service rendered at Jasar Al Heera was infused with a blend of expertise and artistry.
               </p>
             </div>
             <div className="w-full lg:w-8/12 lg:pt-8">

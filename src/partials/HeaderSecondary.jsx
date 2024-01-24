@@ -16,6 +16,7 @@ export default function HeaderSecondary() {
             <div className="w-full flex justify-between md:w-max md:px-0">
               <Link to="/" aria-label="logo">
                 <img
+                id="main-logo"
                   src={logoImage}
                   className="w-32 dark:contrast-50 contrast-200"
                   alt="logo"

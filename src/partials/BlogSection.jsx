@@ -25,7 +25,7 @@ export default function BlogSection() {
           {/* Article */}
           <article className="flex flex-col items-center gap-4 md:flex-row lg:gap-6">
             <Link
-              to="/blog/1"
+              to="/blogs"
               className="group relative block h-56 w-full shrink-0 self-start overflow-hidden rounded-lg bg-gray-100 shadow-lg md:h-24 md:w-24 lg:h-40 lg:w-40"
             >
               <img
@@ -39,7 +39,7 @@ export default function BlogSection() {
               <span className="text-sm text-gray-400">February 1, 2024</span>
               <h2 className="text-xl font-bold text-gray-800">
                 <Link
-                  to="/blog/1"
+                  to="/blogs"
                   className="transition duration-100 hover:text-yellow-600 active:text-yellow-600"
                 >
                   "Unveiling Brilliance: The Art of Car Polishing"
@@ -62,7 +62,7 @@ export default function BlogSection() {
           {/* Article */}
           <article className="flex flex-col items-center gap-4 md:flex-row lg:gap-6">
             <Link
-              to="/blog/1"
+              to="/blogs"
               className="group relative block h-56 w-full shrink-0 self-start overflow-hidden rounded-lg bg-gray-100 shadow-lg md:h-24 md:w-24 lg:h-40 lg:w-40"
             >
               <img
@@ -76,7 +76,7 @@ export default function BlogSection() {
               <span className="text-sm text-gray-400">January 16, 2022</span>
               <h2 className="text-xl font-bold text-gray-800">
                 <Link
-                  to="/blog/1"
+                  to="/blogs"
                   className="transition duration-100 hover:text-yellow-600 active:text-yellow-600"
                 >"The Art of Revitalization: A Dive into our Car Washing Expertise"
                 </Link>
@@ -97,7 +97,7 @@ export default function BlogSection() {
           {/* Article */}
           <article className="flex flex-col items-center gap-4 md:flex-row lg:gap-6">
             <Link
-              to="/blog/1"
+              to="/blogs"
               className="group relative block h-56 w-full shrink-0 self-start overflow-hidden rounded-lg bg-gray-100 shadow-lg md:h-24 md:w-24 lg:h-40 lg:w-40"
             >
               <img
@@ -111,7 +111,7 @@ export default function BlogSection() {
               <span className="text-sm text-gray-400">May 16, 2021</span>
               <h2 className="text-xl font-bold text-gray-800">
                 <Link
-                  to="/blog/1"
+                  to="/blogs"
                   className="transition duration-100 hover:text-yellow-600 active:text-yellow-600"
                 >"Wrapped in Style: The Allure of Car Wrapping"
                 </Link>
@@ -133,7 +133,7 @@ export default function BlogSection() {
           {/* Article */}
           <article className="flex flex-col items-center gap-4 md:flex-row lg:gap-6">
             <Link
-              to="/blog/1"
+              to="/blogs"
               className="group relative block h-56 w-full shrink-0 self-start overflow-hidden rounded-lg bg-gray-100 shadow-lg md:h-24 md:w-24 lg:h-40 lg:w-40"
             >
               <img
@@ -147,7 +147,7 @@ export default function BlogSection() {
               <span className="text-sm text-gray-400">April 2, 2022</span>
               <h2 className="text-xl font-bold text-gray-800">
                 <Link
-                  to="/blog/1"
+                  to="/blogs"
                   className="transition duration-100 hover:text-yellow-600 active:text-yellow-600"
                 >"Ceramic Coating: A Shield of Brilliance"
                 </Link>

@@ -1,9 +1,11 @@
 import Footer from "../partials/Footer";
 import HeaderSecondary from "../partials/HeaderSecondary";
+import ContactBar from "../partials/ContactBar";
 
 export default function About() {
   return (
     <div className="flex flex-col min-h-screen overflow-hidden">
+      <ContactBar />
       <HeaderSecondary />
       <main className="flex-grow mt-20">
         <div className="2xl:container 2xl:mx-auto lg:py-32 lg:px-20 md:py-12 md:px-6 py-9 px-4">
@@ -55,62 +57,62 @@ The journey continued with the company's commitment to care, as if each vehicle 
               <div className="grid md:grid-cols-4 sm:grid-cols-2 grid-cols-1 lg:gap-4 shadow-lg rounded-md">
                 <div className="p-4 pb-6 flex justify-center flex-col items-center">
                   <img
-                    className="md:block hidden"
-                    src="https://i.ibb.co/FYTKDG6/Rectangle-118-2.png"
+                    className="md:block hidden rounded-xl"
+                    src="http://localhost:5173/src/images/l1.png"
                     alt="Alexa featured Img"
                   />
                   <img
                     className="md:hidden block"
-                    src="https://i.ibb.co/zHjXqg4/Rectangle-118.png"
+                    src="http://localhost:5173/src/images/l1.png"
                     alt="Alexa featured Img"
                   />
                   <p className="font-medium text-xl leading-5 text-gray-800 mt-4">
-                    Alexa
+                  Bob haris
                   </p>
                 </div>
                 <div className="p-4 pb-6 flex justify-center flex-col items-center">
                   <img
-                    className="md:block hidden"
-                    src="https://i.ibb.co/fGmxhVy/Rectangle-119.png"
+                    className="md:block hidden rounded-xl"
+                    src="http://localhost:5173/src/images/l4.png"
                     alt="Olivia featured Img"
                   />
                   <img
                     className="md:hidden block"
-                    src="https://i.ibb.co/NrWKJ1M/Rectangle-119.png"
+                    src="http://localhost:5173/src/images/l4.png"
                     alt="Olivia featured Img"
                   />
                   <p className="font-medium text-xl leading-5 text-gray-800 mt-4">
-                    Olivia
+                  Duke Turns
                   </p>
                 </div>
                 <div className="p-4 pb-6 flex justify-center flex-col items-center">
                   <img
-                    className="md:block hidden"
-                    src="https://i.ibb.co/Pc6XVVC/Rectangle-120.png"
+                    className="md:block hidden rounded-xl"
+                    src="http://localhost:5173/src/images/l3.png"
                     alt="Liam featued Img"
                   />
                   <img
                     className="md:hidden block"
-                    src="https://i.ibb.co/C5MMBcs/Rectangle-120.png"
+                    src="http://localhost:5173/src/images/l3.png"
                     alt="Liam featued Img"
                   />
                   <p className="font-medium text-xl leading-5 text-gray-800 mt-4">
-                    Liam
+                  Rock Lancer
                   </p>
                 </div>
                 <div className="p-4 pb-6 flex justify-center flex-col items-center">
                   <img
-                    className="md:block hidden"
-                    src="https://i.ibb.co/7nSJPXQ/Rectangle-121.png"
+                    className="md:block hidden rounded-xl"
+                    src="http://localhost:5173/src/images/l2.png"
                     alt="Elijah featured img"
                   />
                   <img
                     className="md:hidden block"
-                    src="https://i.ibb.co/ThZBWxH/Rectangle-121.png"
+                    src="http://localhost:5173/src/images/l2.png"
                     alt="Elijah featured img"
                   />
                   <p className="font-medium text-xl leading-5 text-gray-800 mt-4">
-                    Elijah
+                  Chris Binva
                   </p>
                 </div>
               </div>

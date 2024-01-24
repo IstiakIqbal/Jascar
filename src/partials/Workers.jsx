@@ -10,7 +10,7 @@ export default function Workers() {
         <h1 className="h2 mb-4">
           Excellent{" "}
           <span className="bg-clip-text text-transparent bg-gradient-to-r from-yellow-600 to-gray-900">
-            Workers
+             Workers
           </span>
         </h1>
         <p className="text-xl text-gray-600">

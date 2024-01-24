@@ -75,7 +75,7 @@ function HeroHome({ executeScroll }) {
                 <div>
                   <a
                     className="btn rounded-none text-white bg-yellow-600 hover:bg-yellow-500 hover:text-black w-full mb-4 sm:w-auto sm:mb-0"
-                    href="contact"
+                    href="#get-service"
                   >
                     Get Service
                   </a>
@@ -220,7 +220,9 @@ function HeroHome({ executeScroll }) {
           </div>
         </div>
       </div>
+      
     </section>
+    
   );
 }
 

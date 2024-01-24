@@ -30,4 +30,9 @@ body {
   #contactBar{
     display: none;
   }
+  /* #main-logo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  } */
 }

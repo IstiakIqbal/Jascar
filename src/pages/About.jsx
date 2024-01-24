@@ -58,12 +58,12 @@ The journey continued with the company's commitment to care, as if each vehicle 
                 <div className="p-4 pb-6 flex justify-center flex-col items-center">
                   <img
                     className="md:block hidden rounded-xl"
-                    src="http://localhost:5173/src/images/l1.png"
+                    src="https://i.ibb.co/z67cjbm/client-1.png"
                     alt="Alexa featured Img"
                   />
                   <img
                     className="md:hidden block"
-                    src="http://localhost:5173/src/images/l1.png"
+                    src="https://i.ibb.co/z67cjbm/client-1.png"
                     alt="Alexa featured Img"
                   />
                   <p className="font-medium text-xl leading-5 text-gray-800 mt-4">
@@ -73,12 +73,12 @@ The journey continued with the company's commitment to care, as if each vehicle 
                 <div className="p-4 pb-6 flex justify-center flex-col items-center">
                   <img
                     className="md:block hidden rounded-xl"
-                    src="http://localhost:5173/src/images/l4.png"
+                    src="https://i.ibb.co/Sn8Nv99/client-2.png"
                     alt="Olivia featured Img"
                   />
                   <img
                     className="md:hidden block"
-                    src="http://localhost:5173/src/images/l4.png"
+                    src="https://i.ibb.co/Sn8Nv99/client-2.png"
                     alt="Olivia featured Img"
                   />
                   <p className="font-medium text-xl leading-5 text-gray-800 mt-4">
@@ -88,12 +88,12 @@ The journey continued with the company's commitment to care, as if each vehicle 
                 <div className="p-4 pb-6 flex justify-center flex-col items-center">
                   <img
                     className="md:block hidden rounded-xl"
-                    src="http://localhost:5173/src/images/l3.png"
+                    src="https://i.ibb.co/CWskf0f/client-3.png"
                     alt="Liam featued Img"
                   />
                   <img
                     className="md:hidden block"
-                    src="http://localhost:5173/src/images/l3.png"
+                    src="https://i.ibb.co/CWskf0f/client-3.png"
                     alt="Liam featued Img"
                   />
                   <p className="font-medium text-xl leading-5 text-gray-800 mt-4">
@@ -103,12 +103,12 @@ The journey continued with the company's commitment to care, as if each vehicle 
                 <div className="p-4 pb-6 flex justify-center flex-col items-center">
                   <img
                     className="md:block hidden rounded-xl"
-                    src="http://localhost:5173/src/images/l2.png"
+                    src="https://i.ibb.co/w4Lq6RK/client-4.png"
                     alt="Elijah featured img"
                   />
                   <img
                     className="md:hidden block"
-                    src="http://localhost:5173/src/images/l2.png"
+                    src="https://i.ibb.co/w4Lq6RK/client-4.png"
                     alt="Elijah featured img"
                   />
                   <p className="font-medium text-xl leading-5 text-gray-800 mt-4">

@@ -1,8 +1,11 @@
 import HeaderSecondary from "../partials/HeaderSecondary";
+import ContactBar from "../partials/ContactBar";
+import Footer from "../partials/Footer";
 
 export default function Contact() {
   return (
     <section className="" id="contact">
+      <ContactBar />
       <HeaderSecondary />
       <div className="mx-auto max-w-7xl px-4 pb-16 pt-28 sm:px-6 lg:px-8 lg:pb-16">
         <div className="mb-4">
@@ -188,6 +191,7 @@ export default function Contact() {
           </div>
         </div>
       </div>
+      <Footer />
     </section>
   );
 }

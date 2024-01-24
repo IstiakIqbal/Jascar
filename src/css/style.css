@@ -26,3 +26,9 @@
 body {
   font-family: Inter;
 }
+@media only screen and (max-width: 650px)
+{
+  #contactBar{
+    display: none;
+  }
+}

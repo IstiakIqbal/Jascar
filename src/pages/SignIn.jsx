@@ -1,11 +1,14 @@
 import React from "react";
 import { Link } from "react-router-dom";
+import Footer from "../partials/Footer";
+import ContactBar from "../partials/ContactBar";
 
 import HeaderSecondary from "../partials/HeaderSecondary";
 
 function SignIn() {
   return (
     <div className="flex flex-col min-h-screen overflow-hidden">
+      <ContactBar />
       <HeaderSecondary />
       <main data-aos="zoom-in" className="flex-grow">
         <section className="bg-">
@@ -145,6 +148,7 @@ function SignIn() {
           </div>
         </section>
       </main>
+      <Footer />
     </div>
   );
 }
